@@ -9,7 +9,7 @@ avatar: assets/img/lines.jpg                         # Empty for no avatar in na
 favicon: assets/img/lines.jpg                            # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: The Parallax Review Project  # Change Blog header text
 header_feature_image: assets/img/header/linesnodes.jpg
 header_feature_image_responsive: true
 footer_text: 
